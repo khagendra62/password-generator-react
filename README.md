@@ -24,7 +24,7 @@ A modern, fast password generator built with React. Generate secure passwords wi
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/password-generator-react.git
+git clone https://github.com/khagendra62/password-generator-react.git
 cd password-generator-react
 
 # Install dependencies
